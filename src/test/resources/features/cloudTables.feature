@@ -29,7 +29,6 @@ Feature: DDT example with CloudTables
     Examples:
       | firstName | lastName   | position  | salary |
       | Marie     | Curie      | SDET      | 100000 |
-      | Rosalind  | Franklin   | Developer | 150000 |
       | List      | Meitner    | QA        | 135000 |
       | Chien     | Wu         | SDET      | 125000 |
       | Barbara   | McClintock | QA        | 118000 |

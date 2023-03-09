@@ -30,7 +30,7 @@ Feature: Google search functionality
     |Turkey |Ankara |
     |USA    |Washington, D.C.|
     |Ukraine|Kyiv         |
-    |Gemany |Berlin       |
+    |Germany |Berlin       |
     |UK     |London       |
     |Latvia |Riga         |
 
